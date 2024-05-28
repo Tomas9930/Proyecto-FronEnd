@@ -1,0 +1,43 @@
+
+    footer{
+    
+    color: black;
+    font-size: 100%;
+    text-align: center;
+    align-items: center;
+    }
+
+.texto{
+width: 50%;
+padding: 5%;
+text-align: center;
+font-family: kolker;
+
+}
+
+h1 {
+
+  font-size: 150px;
+
+}
+
+.texto_parrafo{
+
+  font-size: 35px;
+}
+
+.obras{
+
+
+width: 250%;
+margin: 40%;
+
+
+    }
+.presentacion{
+
+  display: flex; 
+  flex-wrap: wrap;
+}
+
+
